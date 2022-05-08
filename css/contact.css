@@ -1,0 +1,34 @@
+.submit input{
+  font-size: 3rem;
+  color: #ffffff;
+  background-color: #008B8B;
+  padding: 10px 10px;
+  text-align: center;
+  align-items: center;
+}
+
+.submit{
+  height: 6rem;
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+}
+
+.submit:hover{
+  opacity: 0.5;
+}
+
+.contact th{
+  width: 150px;
+  height: 7rem;
+  padding-right: 5px;
+}
+
+.contact td{
+  padding-left: 5px;
+}
+
+.text{
+  width:480px;
+}
